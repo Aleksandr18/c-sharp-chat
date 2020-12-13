@@ -1,0 +1,6 @@
+D:\Projects C\chat\chat\chat\bin\Debug\chat.dll.config
+D:\Projects C\chat\chat\chat\bin\Debug\chat.dll
+D:\Projects C\chat\chat\chat\bin\Debug\chat.pdb
+D:\Projects C\chat\chat\chat\obj\Debug\chat.csproj.CoreCompileInputs.cache
+D:\Projects C\chat\chat\chat\obj\Debug\chat.dll
+D:\Projects C\chat\chat\chat\obj\Debug\chat.pdb

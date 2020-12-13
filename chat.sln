@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chat", "chat\chat.csproj", "{EC17470E-D05C-4D44-87BB-3532D64076ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatHost", "ChatHost\ChatHost.csproj", "{ADD11301-2CB5-406C-BA83-221CCB00312D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatClient", "ChatClient\ChatClient.csproj", "{AD68FFA5-D86B-4DED-842C-0FE202445723}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC17470E-D05C-4D44-87BB-3532D64076ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC17470E-D05C-4D44-87BB-3532D64076ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC17470E-D05C-4D44-87BB-3532D64076ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC17470E-D05C-4D44-87BB-3532D64076ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADD11301-2CB5-406C-BA83-221CCB00312D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADD11301-2CB5-406C-BA83-221CCB00312D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADD11301-2CB5-406C-BA83-221CCB00312D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADD11301-2CB5-406C-BA83-221CCB00312D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD68FFA5-D86B-4DED-842C-0FE202445723}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD68FFA5-D86B-4DED-842C-0FE202445723}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD68FFA5-D86B-4DED-842C-0FE202445723}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD68FFA5-D86B-4DED-842C-0FE202445723}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25D4BB27-A0E3-40A2-A8C9-ACC6BA6E7617}
+	EndGlobalSection
+EndGlobal
